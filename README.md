@@ -1,3 +1,5 @@
+사용하지 않습니다.. (2022-01-05)
+
 # techcrontab
 <img src="https://scontent-gmp1-1.xx.fbcdn.net/v/t39.30808-6/268786456_110404478182435_34759209790788281_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=ni9C80f3zgsAX_sTqZQ&_nc_ht=scontent-gmp1-1.xx&oh=00_AT--F0GfzvycgZBAgzW7Stnaj_l6V44I9ymYOpRdlPazsA&oe=61D62C72" width="40%" height="40%"/>
 
